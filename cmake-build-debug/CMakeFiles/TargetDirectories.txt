@@ -1,0 +1,3 @@
+/home/gemmy/CLionProjects/Student Management System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/gemmy/CLionProjects/Student Management System/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/gemmy/CLionProjects/Student Management System/cmake-build-debug/CMakeFiles/testing.dir
