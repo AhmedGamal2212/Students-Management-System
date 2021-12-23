@@ -155,7 +155,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/175/bin/cmake/linux/bin/cmake"
+			"value" : "/snap/clion/177/bin/cmake/linux/bin/cmake"
 		},
 		{
 			"name" : "CMAKE_CPACK_COMMAND",
@@ -167,7 +167,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/175/bin/cmake/linux/bin/cpack"
+			"value" : "/snap/clion/177/bin/cmake/linux/bin/cpack"
 		},
 		{
 			"name" : "CMAKE_CTEST_COMMAND",
@@ -179,7 +179,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/175/bin/cmake/linux/bin/ctest"
+			"value" : "/snap/clion/177/bin/cmake/linux/bin/ctest"
 		},
 		{
 			"name" : "CMAKE_CXX_COMPILER",
@@ -967,7 +967,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/snap/clion/175/bin/cmake/linux/share/cmake-3.21"
+			"value" : "/snap/clion/177/bin/cmake/linux/share/cmake-3.21"
 		},
 		{
 			"name" : "CMAKE_SHARED_LINKER_FLAGS",
